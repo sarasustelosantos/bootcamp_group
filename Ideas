@@ -1,0 +1,37 @@
+General inputs: customer bejavior, preferences, pain points ---> ssrategic initiatives that drive customer retention, enhance revenue and improve customer satisfaction
+
+1. Customer Churn Analysis
+- Churn rate - % of customers who have left the company in a given time period - compare churn rates in different periods to see if there's a time effect
+- Predict which customers are most likely to leave in the coming period (predictive analysis)
+- Analyse the reasons for churn - which areas should the company work on? Which customers churn more or less? (e.g. high CLTV customers churning is a very bad sign)
+- For customers who say Churn category is "Competitor" - see what is different (identify reasions why customers prefer them)
+
+2. Customer segmentation
+- Based on services they use, CLTV categories, tenure, and other demographic details
+- Which segments are the most profitable?
+- Which segments have higher churn rate?
+
+3. Revenue analysis & Customer satisfaction:
+- Which are the most popular services? How they correlate with other variables such as customer satisfaction?
+- Penetration of additional services among the customer base (e.g. Security, backup, etc)
+- Satisfaction Score and Churn correlation
+- Do certain services or pricing tiers lead to higher satisfaction scores?
+- Determine churn rates based on contract types
+- Impact of different payment methods on customer satisfaction and churn
+- Do different offer bundling impact churn and customer satisfaction?
+- Do certian pricing tiers or additional charges correlate with higher churn?
+
+4. Referral analysis:
+- Correlation between referrals and churn. Do customers who refer others are less likely to churn?
+
+5. Geographical analysis:
+- Are there specific regions where churn is higher or where certain services are more popular?
+- Analyse market penetration across regions
+
+
+Potential recommendations:
+- Retention initiatives - target retetion efforts (specially for CLTV customers)
+- Service/offering bundling - certain services together can lead to higher satisfaction...
+- Geographical expansion
+- Pricing adjustments - if extra charges correlate with churn, recommend revision of pricing strategies
+
