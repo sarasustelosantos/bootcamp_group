@@ -1,0 +1,11 @@
+datetime==5.3
+ipython==8.14.0
+matplotlib==3.7.1
+mlxtend==0.22.0
+numpy==1.24.3
+pandas==2.0.2
+pprintpp==0.4.0
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
+xgboost==2.0.2
