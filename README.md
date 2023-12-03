@@ -4,7 +4,15 @@ Enterprise Datascience Bootcamp Project
 # Project Title: Predictive Churn Tool - Telecom Operator
 
 ## Overview
-This repository contains a series of Jupyter notebooks that document the various stages of data analysis and predictive modeling used to understand and predict churn from the Telecom company. Each notebook focuses on a specific phase of the project, from data collection and exploration to advanced modeling techniques.
+This repository contains a series of Jupyter notebooks (Python language) that document the various stages of data analysis and predictive modeling used to understand and predict churn from the Telecom company. Each notebook focuses on a specific phase of the project, from data collection and exploration to advanced modeling techniques.
+This repository is organised as follows:
+- OLD: contains old files
+- data: contains all the raw and processed data
+- docs: contains documents used by the team members during the work
+- outputs: contains files outputed during the project
+- powerbi: contains the Power BI file used for exploration
+- notebooks (.ipynb): named with a numerical preffix translating the logical order of the work
+- requirements.txt: necessary Python libraries to run the notebooks.
 
 ## Notebooks
 
@@ -18,7 +26,7 @@ The notebook's content involves applying clustering techniques (Elbow Mehtod, De
 This notebook delves into the critical process of feature selection. It identifies the most relevant features for predictive modeling, essential for enhancing model performance and ensuring interpretability.
 
 ### 4. Modelling (`04_modelling.ipynb`)
-Dedicated to modeling, this notebook begins by preparing for the modeling process, including importing necessary libraries. It then explores various machine learning algorithms to predict churn, evaluating their performance. Models used: Logistic Regression, Decision Tree, Random Forest, SVC, Gaussian, KNN, Gradient Boosting, MLP.
+Dedicated to modeling, this notebook begins by preparing data for the modeling process. It then explores various machine learning algorithms to predict churn, evaluating their performance. Models used: Logistic Regression, Decision Tree, Random Forest, SVC, Gaussian, KNN, Gradient Boosting, MLP.
 
 ## Getting Started
-To begin, clone the repository and install the required dependencies listed in the `requirements.txt` file. Run each notebook individually to understand the different stages of the project, from initial data handling to complex modeling strategies. The notebooks contain already the outputs, run only if needed.
+Clone the repository and install the required dependencies listed in the `requirements.txt` file. Run each notebook individually to understand the different stages of the project, from initial data handling to complex modeling strategies. The notebooks already contain the outputs, run only if needed.
