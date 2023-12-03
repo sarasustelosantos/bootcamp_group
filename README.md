@@ -6,7 +6,7 @@ Enterprise Datascience Bootcamp Project
 - Tiago Manuel Queirós Ferreira – 20222153
 - Sara Maria Sustelo Santos - 20221221
 
-# Project Title: Predictive Churn Tool - Telecom Operator
+# Predictive Churn Tool - Telecom Operator
 
 ## Overview
 This repository contains a series of Jupyter notebooks (Python language) that document the various stages of data analysis and predictive modeling used to understand and predict churn from the Telecom company. Each notebook focuses on a specific phase of the project, from data collection and exploration to advanced modeling techniques.
