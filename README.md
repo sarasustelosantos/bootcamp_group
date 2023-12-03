@@ -4,7 +4,7 @@ Enterprise Datascience Bootcamp Project
 # Project Title: Predictive Churn Tool - Telecom Operator
 
 ## Overview
-This repository contains a series of Jupyter notebooks that document various stages of a data analysis and predictive modeling project. Each notebook focuses on a specific phase of the project, from data collection and exploration to advanced modeling techniques.
+This repository contains a series of Jupyter notebooks that document the various stages of data analysis and predictive modeling used to understand and predict churn from the Telecom company. Each notebook focuses on a specific phase of the project, from data collection and exploration to advanced modeling techniques.
 
 ## Notebooks
 
