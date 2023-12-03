@@ -9,10 +9,10 @@ This repository contains a series of Jupyter notebooks that document the various
 ## Notebooks
 
 ### 1. Data Exploration (`01_data_exploration.ipynb`)
-This notebook begins with data collection, including importing libraries and reading and merging datasets. It then proceeds to data exploration, providing insights into the structure of the data, initial patterns, relations, and potential errors.
+This notebook begins with data collection, including importing libraries and reading and merging datasets. It then proceeds to data exploration, providing insights into the structure of the data, patterns, and relations.
 
 ### 2. Clustering Analysis (`02_clustering_analysis.ipynb`)
-The notebook starts with an introductory section that likely sets the stage for clustering analysis. This stage involves applying clustering techniques to discover inherent groupings in the data, which can be crucial for subsequent analysis steps.
+The notebook's content involves applying clustering techniques (Elbow Mehtod, Dendogram, K-Means) to discover inherent groupings in the data. Functions are defined at the beginning of the file.
 
 ### 3. Feature Selection (`03_feature_selection.ipynb`)
 This notebook delves into the critical process of feature selection. It identifies the most relevant features for predictive modeling, essential for enhancing model performance and ensuring interpretability.
