@@ -12,6 +12,7 @@ This repository is organised as follows:
 - docs: contains documents used by the team members during the work
 - outputs: contains files outputed during the project
 - powerbi: contains the Power BI file used for exploration
+- presentation: contains the presentation of the project
 - notebooks (.ipynb): named with a numerical preffix translating the logical order of the work
 - requirements.txt: necessary Python libraries to run the notebooks.
 
