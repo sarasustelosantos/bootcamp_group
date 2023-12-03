@@ -5,6 +5,7 @@ Enterprise Datascience Bootcamp Project
 
 ## Overview
 This repository contains a series of Jupyter notebooks (Python language) that document the various stages of data analysis and predictive modeling used to understand and predict churn from the Telecom company. Each notebook focuses on a specific phase of the project, from data collection and exploration to advanced modeling techniques.
+
 This repository is organised as follows:
 - OLD: contains old files
 - data: contains all the raw and processed data
