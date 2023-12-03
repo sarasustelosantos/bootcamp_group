@@ -1,5 +1,10 @@
 # Bootcamp Group N - 2023
 Enterprise Datascience Bootcamp Project
+### Group Members:
+- Diogo Gaspar – 20222171
+- Jorge Augusto Maciel Milhomem Rodrigues – 20222175
+- Tiago Manuel Queirós Ferreira – 20222153
+- Sara Maria Sustelo Santos - 20221221
 
 # Project Title: Predictive Churn Tool - Telecom Operator
 
